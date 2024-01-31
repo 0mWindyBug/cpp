@@ -1,0 +1,8 @@
+﻿  client.cpp
+C:\Users\dorge\source\repos\MultithreadedSockets\Client\client.cpp(41,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dorge\source\repos\MultithreadedSockets\Client\client.cpp(58,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Client.vcxproj -> C:\Users\dorge\source\repos\MultithreadedSockets\x64\Release\Client.exe
