@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\dorge\source\repos\cpp\cpp\Source.cpp(15,4): warning C4101: 'temp': unreferenced local variable
+C:\Users\dorge\source\repos\cpp\cpp\Source.cpp(42): message : see reference to function template instantiation 'void sort_arr<int>(t [],int)' being compiled
+          with
+          [
+              t=int
+          ]
+  Generating code
+  4 of 14 functions (28.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cpp.vcxproj -> C:\Users\dorge\source\repos\cpp\x64\Release\cpp.exe
