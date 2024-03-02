@@ -1,2 +1,2 @@
 # cpp
-some basic cpp concepts 
+some basic cpp concepts for beginners
