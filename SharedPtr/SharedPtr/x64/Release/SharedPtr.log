@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Generating code
+C:\Users\dorge\source\repos\SharedPtr\SharedPtr\SharedPtr.h(56): warning C4715: 'SharedPtr<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get_number_of_references': not all control paths return a value
+C:\Users\dorge\source\repos\SharedPtr\SharedPtr\SharedPtr.h(50): warning C4715: 'SharedPtr<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Get': not all control paths return a value
+  6 of 98 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SharedPtr.vcxproj -> C:\Users\dorge\source\repos\SharedPtr\x64\Release\SharedPtr.exe
